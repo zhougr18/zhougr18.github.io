@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qianrui Zhou (周乾睿)"
+title                    : "Qianrui Zhou"
 description              : "Intent Understanding, Natural Language Processing, and Multimodal Machine Learning."
 repository               : "zhougr18/zhougr18.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qianrui Zhou (周乾睿)"
-  avatar           : "images/profile.jpg"
+  name             : "Qianrui Zhou"
+  avatar           : "android-chrome-512x512.png"
   bio              : "Ph.D. Student in Tsinghua University."
   location         : "Beijing, China"
   employer         :
