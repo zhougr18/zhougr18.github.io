@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,9 +27,7 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 - *2021.05*: &nbsp;🎉🎉 Got one full paper accepted by ACL 2021 (Demo Track).  
 
 # 📝 Publications 
-
-
-## Publications 
+ 
 1. <strong>Qianrui Zhou</strong>\*, Hua Xu, Yifan Wang, Xinzhi Dong, Hanlei Zhang. LLM-Guided Semantic Relational Reasoning for Multimodal Intent Recognition. 2025. <i>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing</i>. (<strong>EMNLP 2025, CAAI-A</strong>) [[paper]](https://aclanthology.org/2025.emnlp-main.1130.pdf) [[code]](https://github.com/thuiar/LGSRR)
 2. <strong>Qianrui Zhou</strong>\*, Hua Xu, Hao Li, Hanlei Zhang, Xiaohan Zhang, Yifan Wang, Kai Gao. Token-level contrastive learning with modality-aware prompting for multimodal intent recognition. 2024. <i>Proceedings of the 38th AAAI conference on artificial intelligence</i>. (<strong>AAAI 2024, CCF-A</strong>) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29656) [[code]](https://github.com/thuiar/TCL-MAP)
 3. Hanlei Zhang\*, <strong>Qianrui Zhou</strong>\*, Hua Xu, Jianhua Su, Roberto Evans, Kai Gao. Multimodal Classification and Out-of-distribution Detection for Multimodal Intent Understanding. 2025. <i>IEEE Transactions on Multimedia.</i> (<strong>IEEE TMM, CAAI-A</strong>) [[paper]](https://ieeexplore.ieee.org/document/11195733) [[code]](https://github.com/thuiar/MIntOOD) [[bibtex]](/files/TMM25-MIntOOD/MIntOOD.bib)
@@ -41,13 +39,13 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 (\* indicates equal contribution)
 
 
-## Honor and Awards
+# 🎖 Honors and Awards
 
 * [Oct. 2024] <strong>Overall Excellence Scholarship<strong> (Second Prize), Tsinghua University. (<strong>Top 10%<strong>)
 * [Nov. 2018] Second-Class Scholarship for Freshmen of Tsinghua University.
 
 
-## Professional Services
+# 💼 Professional Services
 Reviewer / Program Committee Member:
 
 Conferences: NeurIPS (2023, 2024), CVPR (2025), ICCV (2025), AAAI (2026), ACM MM (2023, 2025)   
